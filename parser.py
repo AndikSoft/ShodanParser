@@ -61,7 +61,6 @@ def main():
                 for result in results['matches']:
                     with open(results_file, 'a') as file:
                         file.write(result['ip_str'] + '\n')
-        # Display results after loading
         if os.path.exists(results_file):
             print('\n[+] Okay, all results from page ' + str(pages_start) + ' to page ' + str(
                 pages_stop) + ', was saved to ' + results_file)
