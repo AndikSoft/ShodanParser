@@ -11,9 +11,7 @@ Programming Languages :
 Python
 
 System :
-Linux, 
-
-Windows
+Linux, Windows
 
 RUN
 
