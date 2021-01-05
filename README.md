@@ -16,7 +16,10 @@ Windows
 
 RUN
 
-#git clone https://github.com/andiksoft/ShodanParser.git
-#cd ShodanParser
-#python parser.py (for Windows)
+#git clone https://github.com/andiksoft/ShodanParser.git 
+
+#cd ShodanParser 
+
+#python parser.py (for Windows) 
+
 #python3 parser.py (for linux)
