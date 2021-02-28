@@ -5,7 +5,6 @@ Shodan is a search engine on the internet where you can find interesting things 
 So what does shodansploit do ?
 With Shodan Parser, you will have all your calls on your terminal. It also allows you to make detailed searches.
 
-All you have to do without running Shodan Parser is to add shodan api.
 
 Programming Languages :
 Python
