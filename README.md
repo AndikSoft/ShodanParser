@@ -1,5 +1,5 @@
 # ShodanParser
-Shodan Parser will export from SHODAN, and create a formatted IP list
+Shodan Parser will export from SHODAN, and create a formatted IP list. 
 Shodan is a search engine on the internet where you can find interesting things all over the world. For example, we can find cameras, bitcoin streams, zombie computers, ports with weakness in service, SCADA systems, and more. Moreover, more specific searches are possible. As a result of the search, Shodan shows us the number of vulnerable hosts on Earth.
 
 So what does shodansploit do ?
